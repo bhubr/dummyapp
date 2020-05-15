@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactphpcors/static/css/main.5f361e03.chunk.css",
+    "main.js": "/reactphpcors/static/js/main.0b72c9f7.chunk.js",
+    "main.js.map": "/reactphpcors/static/js/main.0b72c9f7.chunk.js.map",
+    "runtime-main.js": "/reactphpcors/static/js/runtime-main.b22338f0.js",
+    "runtime-main.js.map": "/reactphpcors/static/js/runtime-main.b22338f0.js.map",
+    "static/js/2.c36828ba.chunk.js": "/reactphpcors/static/js/2.c36828ba.chunk.js",
+    "static/js/2.c36828ba.chunk.js.map": "/reactphpcors/static/js/2.c36828ba.chunk.js.map",
+    "index.html": "/reactphpcors/index.html",
+    "precache-manifest.b82c6e500d9217faa04a361dd6bd4da8.js": "/reactphpcors/precache-manifest.b82c6e500d9217faa04a361dd6bd4da8.js",
+    "service-worker.js": "/reactphpcors/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/reactphpcors/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c36828ba.chunk.js.LICENSE.txt": "/reactphpcors/static/js/2.c36828ba.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/reactphpcors/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b22338f0.js",
+    "static/js/2.c36828ba.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.0b72c9f7.chunk.js"
+  ]
+}
